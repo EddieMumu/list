@@ -1,3 +1,3 @@
-# Apple
-DOMAIN-SUFFIX,a.b.com
+# Proxy_List
+DOMAIN-SUFFIX,ip138.com
 IP-CIDR,1.1.1.1/24,no-resolve
